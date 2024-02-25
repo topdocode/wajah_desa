@@ -1,0 +1,34 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-52f5f418.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-2d4c25b0.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-2d4c25b0.css"
+    ],
+    "file": "assets/app-1f567611.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/news.js": {
+    "file": "assets/news-9eb67ca1.js",
+    "isEntry": true,
+    "src": "resources/js/news.js"
+  },
+  "resources/js/popup.js": {
+    "file": "assets/popup-17950ef6.js",
+    "isEntry": true,
+    "src": "resources/js/popup.js"
+  },
+  "resources/js/styles.js": {
+    "file": "assets/styles-7308eb53.js",
+    "isEntry": true,
+    "src": "resources/js/styles.js"
+  }
+}

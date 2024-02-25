@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+iframe {
+    @apply w-full
+    /* padding-bottom: 56.25%; */
+}
+
+#content {
+    line-height: 2; /* Sesuaikan nilai ini dengan preferensi Anda */
+  }
+
+  #footer-map iframe{
+    width: 100%;
+    height: 100%;
+  }
+
+
